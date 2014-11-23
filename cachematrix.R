@@ -1,6 +1,8 @@
 ## There are 2 function in this programming asisgnment
+## 
 ## First function makes a list  with methods that sets and gets a matrix
 ## and its inverse 
+## 
 ## The second function is passed the list from the first and validates
 ## if the inverse is already calculated or not. If not calculated, it will calculate 
 ## and return back.
